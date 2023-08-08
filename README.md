@@ -19,6 +19,6 @@ Hi 👋, My name is Jorin Liesse
 
 <div id="badges">
   <a href="https://jorin-liesse.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-white?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Website Badge"/>
   </a>
 </div>
