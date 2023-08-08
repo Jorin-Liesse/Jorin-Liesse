@@ -11,6 +11,15 @@ Hi 👋, My name is Jorin Liesse
 
 ### Socials
 
+<style>
+  .badges-container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+  }
+</style>
+
+<div class="badges-container">
 <div id="badges">
   <a href="https://www.linkedin.com/in/jorin-liesse-755774287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -21,4 +30,5 @@ Hi 👋, My name is Jorin Liesse
   <a href="https://jorin-liesse.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
+</div>
 </div>
