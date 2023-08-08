@@ -16,3 +16,9 @@ Hi 👋, My name is Jorin Liesse
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<div id="badges">
+  <a href="https://jorin-liesse.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Website Badge"/>
+  </a>
+</div>
