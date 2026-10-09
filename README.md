@@ -1,7 +1,7 @@
 Hi 👋, My name is Jorin Liesse
 ========================================================================================================================================
 
-🌍  I am a Game Developer based in Belgium, Zonhoven.
+🌍  I am a Software Developer based in Belgium, Zonhoven.
 <br/>
 
 ### Skills
